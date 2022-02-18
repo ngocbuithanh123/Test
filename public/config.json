@@ -1,0 +1,10 @@
+{
+    "BillAcceptorPort": "COM3",
+    "BillAcceptorIdealTime": 30,
+    "EstablishmentID": 40,
+    "KioskID": "18",
+    "APIURL": "http://3.211.184.6/Sweepstakes.Web.Api/",
+    "SiteURL": "http://3.211.184.6/Sweepstakes.Web/",
+    "UserInactiveTimeInSeconds": 600,
+    "BonusInfoText": "3 or more Scatter symbols appearing randomly on the reels in the main game actives the bonus features."
+}
